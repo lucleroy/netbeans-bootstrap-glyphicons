@@ -2,5 +2,5 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.lucleroy.bootstrap.glyphicons.palette/1
 OpenIDE-Module-Layer: org/lucleroy/bootstrap/glyphicons/palette/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/lucleroy/bootstrap/glyphicons/palette/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0.0
+OpenIDE-Module-Specification-Version: 1.1.0
 
